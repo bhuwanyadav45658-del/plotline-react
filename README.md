@@ -21,3 +21,4 @@ routes to index.html so links like /colonies/lakeview-enclave work on refresh.
     src/components/          cards, site plan, header, footer, form, illustrations
     src/context/             enquiry modal and toast
     src/styles/style.css     all styling
+# plotline-react

@@ -1,0 +1,11 @@
+export default function Logo() {
+  return (
+    <svg viewBox="0 0 30 30" aria-hidden="true">
+      <rect x="1.5" y="1.5" width="27" height="27" rx="5" fill="#1f6f5c" stroke="#14202b" strokeWidth="2" />
+      <rect x="6" y="6" width="8" height="8" rx="1.5" fill="#e8b923" />
+      <rect x="16" y="6" width="8" height="8" rx="1.5" fill="#dcebe5" />
+      <rect x="6" y="16" width="8" height="8" rx="1.5" fill="#dcebe5" />
+      <rect x="16" y="16" width="8" height="8" rx="1.5" fill="#dcebe5" />
+    </svg>
+  );
+}
